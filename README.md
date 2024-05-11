@@ -1,6 +1,3 @@
-Sure, here's a sample README file for your GitHub project "solar-hub":
-
----
 
 # Welcome to Solar-Hub Website Landing Page
 
